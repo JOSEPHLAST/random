@@ -30,7 +30,7 @@ This is a simple **Interest Calculator** web application built using **HTML, CSS
 
 ## **🚀 INSTALLATION AND SETUP**  
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/yourusername/interest-calculator.git   
+git clone https://github.com/JOSEPHLAST/interest-calculator.git   
 cd interest-calculator   
 
 ### **2️⃣ Open in Browser**
