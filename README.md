@@ -58,4 +58,4 @@ Simply open the index.html file in your browser.
 🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)   
 🔗 LinkedIn: [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)   
 
-*💰 “Let your money work for you! Calculate interest instantly!*
+*💰 “Let your money work for you! Calculate interest instantly!"*
